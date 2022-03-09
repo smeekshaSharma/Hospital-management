@@ -1,0 +1,36 @@
+.appointment {
+    background-color: #3498DB;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+
+.btnn {
+    background-color: #3498DB;
+    color: white;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.btnn a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px 15px 10px 15px;
+}
+
+.btnn a:hover {
+    color: #3498DB;
+    background-color: white;
+}
+
+.navv {
+    background-color: #3498DB;
+}
+
+.btnn-outline-success:hover {
+    background-color: white;
+    text-decoration: none;
+    color: #3498DB;
+}
